@@ -16,4 +16,6 @@
 	<img align="center" alt="amazon aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div><br/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 Apaixonado por tecnologia e conhecer pessoas!
